@@ -59,7 +59,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1355.6878,341.26394 -151.4398,-0.89564 -74.9442,-131.59851 76.4955,-130.702862 151.4398,0.895648 74.9442,131.598504 z"
-       onclick="window.location='pages/proje1.html'&#10;" />
+       onclick="window.location='/pages/proje1.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -75,7 +75,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1118.8104,471.07805 -142.96819,-2.18589 -69.59108,-124.90706 73.37715,-122.72117 142.96822,2.18589 69.5911,124.90706 z"
-       onclick="window.location='pages/proje2.html'&#10;" />
+       onclick="window.location='/pages/proje2.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -91,7 +91,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1345.4275,587.0632 -134.3494,0.72974 -67.8067,-115.98513 66.5428,-116.71488 134.3494,-0.72974 67.8067,115.98513 z"
-       onclick="window.location='pages/proje3.html'&#10;" />
+       onclick="window.location='/pages/proje3.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -107,7 +107,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1575.6134,467.50928 -139.8776,-0.4015 -69.591,-121.33829 70.2865,-120.93679 139.8775,0.4015 69.5911,121.33829 z"
-       onclick="window.location='pages/proje4.html'&#10;" />
+       onclick="window.location='/pages/proje4.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -123,7 +123,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1811.1524,601.33829 -145.4057,-1.53275 -71.3755,-126.69145 74.0303,-125.15868 145.4058,1.53275 71.3754,126.69145 z"
-       onclick="window.location='pages/proje5.html'&#10;" />
+       onclick="window.location='/pages/proje5.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -139,7 +139,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1800.4461,849.36801 -133.4572,-0.81558 -66.0223,-115.98513 67.4349,-115.16956 133.4572,0.81557 66.0224,115.98514 z"
-       onclick="window.location='pages/proje6.html'&#10;" />
+       onclick="window.location='/pages/proje6.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -155,7 +155,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1570.2603,711.97028 -131.0198,-1.46871 -64.2379,-114.20075 66.7818,-112.73204 131.0197,1.46871 64.2379,114.20075 z"
-       onclick="window.location='pages/proje7.html'&#10;" />
+       onclick="window.location='/pages/proje7.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -171,7 +171,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1809.368,1104.5353 -132.8041,1.622 -67.8067,-114.20076 64.9974,-115.82269 132.8041,-1.62194 67.8067,114.20074 z"
-       onclick="window.location='pages/proje8.html'&#10;" />
+       onclick="window.location='/pages/proje8.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -187,7 +187,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1575.6134,1229.4424 -128.5821,-2.1219 -62.4536,-112.4163 66.1287,-110.2945 128.5822,2.1218 62.4535,112.4163 z"
-       onclick="window.location='pages/proje9.html'&#10;" />
+       onclick="window.location='/pages/proje9.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -203,7 +203,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1580.9666,977.84389 -135.2416,2.27508 -69.5911,-115.98513 65.6505,-118.2602 135.2416,-2.27508 69.5911,115.98512 z"
-       onclick="window.location='pages/proje10.html'&#10;" />
+       onclick="window.location='/pages/proje10.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -219,7 +219,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1348.9962,851.15242 -138.3322,0.49069 -69.5911,-119.55391 68.7412,-120.0446 138.3322,-0.49068 69.5911,119.5539 z"
-       onclick="window.location='pages/proje11.html'&#10;" />
+       onclick="window.location='/pages/proje11.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -235,7 +235,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1122.3791,722.67658 -139.22442,2.03602 -71.37547,-119.5539 67.84899,-121.58992 139.2244,-2.03602 71.3755,119.5539 z"
-       onclick="window.location='pages/proje12.html'&#10;" />
+       onclick="window.location='/pages/proje12.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -251,7 +251,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 885.05579,590.63198 -137.026,5.36573 -73.15985,-115.98513 63.86614,-121.35086 137.026,-5.36573 73.15985,115.98514 z"
-       onclick="window.location='pages/proje13.html'&#10;" />
+       onclick="window.location='/pages/proje13.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -267,7 +267,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 892.19331,847.58364 -135.2416,2.27508 -69.59108,-115.98513 65.65052,-118.26021 135.24161,-2.27508 69.59108,115.98513 z"
-       onclick="window.location='pages/proje14.html'&#10;" />
+       onclick="window.location='/pages/proje14.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -283,7 +283,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1122.3792,972.49068 -135.24164,2.27508 -69.59108,-115.98513 65.65053,-118.2602 135.24159,-2.27508 69.5911,115.98512 z"
-       onclick="window.location='pages/proje15.html'&#10;" />
+       onclick="window.location='/pages/proje15.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -299,7 +299,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1354.3495,1104.5353 -137.6792,2.9282 -71.3754,-117.76948 66.3036,-120.69773 137.6792,-2.92821 71.3754,117.76952 z"
-       onclick="window.location='pages/proje16.html'&#10;" />
+       onclick="window.location='/pages/proje16.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -315,7 +315,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1350.7807,1361.487 -133.6963,3.1673 -69.5911,-114.2008 64.1052,-117.368 133.6963,-3.1673 69.5911,114.2008 z"
-       onclick="window.location='pages/proje17.html'&#10;" />
+       onclick="window.location='/pages/proje17.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -331,7 +331,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 1122.3792,1236.5799 -135.89474,-0.1624 -67.80669,-117.7695 68.08805,-117.6071 135.89478,0.1624 67.8066,117.7696 z"
-       onclick="window.location='pages/proje18.html'&#10;" />
+       onclick="window.location='/pages/proje18.html'&#10;" />
     <path
        sodipodi:type="star"
        style="fill:#000000;fill-opacity:0"
@@ -347,6 +347,6 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 890.4089,1102.7509 -128.82124,1.861 -66.02231,-110.63193 62.79894,-112.49298 128.82125,-1.86101 66.0223,110.63197 z"
-       onclick="window.location='pages/proje19.html'&#10;" />
+       onclick="window.location='/pages/proje19.html'&#10;" />
   </g>
 </svg>
